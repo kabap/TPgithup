@@ -8,7 +8,7 @@ public class GameActivity extends SimpleBaseGameActivity {
 
 	private TMXTiledMap mTMXTiledMap;
 	
-	// Scene, Camera
+	// Scene ; Camera
 	public static Scene scene;
 	private BoundCamera mBoundChaseCamera;
 	
